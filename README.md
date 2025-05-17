@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🔍 Easy Anti-Cheat Detector
+# 🔍 Easy Cheat Detector
 
 ![Preview](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/veed_converted.gif)
 
