@@ -1,12 +1,33 @@
-**Easy Cheat Detector** is a free cheat scanner for Counter-Strike 1.6 that helps detect the use of prohibited modifications and third-party software that gives players an unfair advantage. The tool is designed as an alternative to anti-cheat systems. Ask suspicious players to run a scan, and the report will appear on our website https://fungun.net/ecd/
+<div align="center">
+  
+# 🔍 Easy Anti-Cheat Detector
 
-![Animation](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/veed_converted.gif)
+![Preview](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/veed_converted.gif)
 
-Can do scan for next games: Counter Strike 1.6, Counter Strike Source, Counter Strike: GO, Counter Strike 2 and other games based on hl.exe/hl2.exe
+[**English**](#english) | [**Русский**](README_RU.md#russian)
 
+</div>
 
-If .zip blocked by Microsoft Defender, please follow direct .exe download link:
-https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe
+<a id="english"></a>
+## 🛡️ Security
+- 🔒 All transmitted data is encrypted
+- 🚫 Does NOT collect **personal data**
+- 🌐 Standard HTTPS protocol for all connections
 
+## 🎯 Supported Games
+- • Counter-Strike 1.6  
+- • Counter-Strike: Source  
+- • CS:GO  
+- • CS2  
+- • HL1/HL2 modifications  
 
-Tool for view offline reports https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe ( only for admins )
+## 📥 Downloads
+| File | Description |
+|------|-------------|
+| [📦 EasyCheatDetector.exe](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Main anti-cheat executable |
+| [🔧 Report Viewer](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe) | Administrator tool |
+
+<div align="center">
+  
+[🌐 Official Website](https://fungun.net/ecd/)  
+</div>
