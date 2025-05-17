@@ -32,7 +32,7 @@
 ## 📥 Загрузки
 | Файл | Описание |
 |------|----------|
-| [📦 EasyCheatDetector.exe](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Основная программа |
+| [📦 EasyCheatDetector.exe](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Основная античит программа |
 | [🔧 Просмотр отчетов](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe) | Инструмент для администраторов |
 
 <div align="center">
