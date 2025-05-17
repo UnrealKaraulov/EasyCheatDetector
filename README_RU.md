@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🔍 Детектор Читов
+# 🔍 Easy Cheat Detector
 
 ![Превью](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/veed_converted.gif)
 
