@@ -32,7 +32,7 @@
 ## 📥 Downloads
 | File | Description |
 |------|-------------|
-| [📦 EasyCheatDetector.exe](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Main anti-cheat executable |
+| [📦 EasyCheatDetector](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Main anti-cheat executable |
 | [🔧 Report Viewer](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe) | Administrator tool |
 
 <div align="center">
