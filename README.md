@@ -15,7 +15,7 @@
 - 🌐 Standard HTTPS protocol for all connections
 
 ## 🎯 Supported Games
-- ** Counter-Strike 1.6  **
+- **Counter-Strike 1.6**
 - Counter-Strike: Source  
 - CS:GO  
 - CS2  
