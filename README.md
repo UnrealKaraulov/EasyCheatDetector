@@ -15,11 +15,11 @@
 - 🌐 Standard HTTPS protocol for all connections
 
 ## 🎯 Supported Games
-- • Counter-Strike 1.6  
-- • Counter-Strike: Source  
-- • CS:GO  
-- • CS2  
-- • HL1/HL2 modifications
+- **Counter-Strike 1.6  **
+- Counter-Strike: Source  
+- CS:GO  
+- CS2  
+- HL1/HL2 modifications
 
 ## 📋 Sends next technical data:
   1. Running processes
