@@ -25,7 +25,7 @@
   1. Running processes
   2. Loaded modules  
   3. Active drivers
-  4. Cheat traces (installed/running)
+  4. Cheat traces (installed/running/download)
   5. SteamID and partial IP
   - 🔐 First 3 items auto-delete after 24h
 
