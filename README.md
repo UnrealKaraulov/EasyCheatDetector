@@ -20,6 +20,7 @@
 - CS:GO  
 - CS2  
 - HL1/HL2 modifications
+- Minecraft 
 
 ## 📋 Sends next technical data:
   1. Running processes
