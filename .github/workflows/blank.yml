@@ -20,5 +20,4 @@ jobs:
         with:
           keep-count: 4
           remove-tags: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
