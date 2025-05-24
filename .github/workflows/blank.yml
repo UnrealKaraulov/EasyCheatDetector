@@ -1,23 +1,21 @@
-name: CI
+name: Clean Up Old Releases
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  release:
+    types: [published]
   workflow_dispatch:
 
 jobs:
-  build:
+  cleanup:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Delete old releases
-        if: success()
-        uses: actions/delete-release@v1
+        uses: dev-drprasad/delete-old-releases@v1.0.1
         with:
           keep_latest: 4
+          delete_tag: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
