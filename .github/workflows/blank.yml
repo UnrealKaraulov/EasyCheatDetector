@@ -9,16 +9,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  cleanup:
+  del_runs:
     runs-on: ubuntu-latest
+    name: delete-old-releases
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Delete old releases
-        uses: Nats-ji/delete-old-releases@v1.0.1
+      - name: Remove old releases
+        uses: dev-drprasad/delete-older-releases@v0.2.0
         with:
-          keep-count: 5
-          remove-tags: true
-          keep-old-minor-releases: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          keep_latest: 4
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
