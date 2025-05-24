@@ -21,9 +21,9 @@ jobs:
 
       # Удаляем старые релизы (оставляем 4 последних)
       - name: Delete old releases
-        uses: dev-drprasad/delete-old-releases@v1.0.1
+        uses: Nats-ji/delete-old-releases@v1.0.1
         with:
-          keep_latest: 4   # Оставить 4 последних релиза
-          delete_tag: true # Удаляет и теги тоже
+          keep_count: 4   # Оставить 4 последних релиза
+          remove_tags: true # Удаляет и теги тоже
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
