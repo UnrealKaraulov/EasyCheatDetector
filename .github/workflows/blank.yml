@@ -1,15 +1,11 @@
 name: Delete Old Releases and Tags
 
 on:
-  # Срабатывает при создании релиза вручную (через GitHub Releases)
   release:
     types: [published]
-  
-  # Срабатывает при любом коммите в main (или другой ветке)
   push:
     branches: [main]
   
-  # Можно запустить вручную из Actions
   workflow_dispatch:
 
 jobs:
@@ -19,11 +15,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Удаляем старые релизы (оставляем 4 последних)
       - name: Delete old releases
         uses: Nats-ji/delete-old-releases@v1.0.1
         with:
-          keep_count: 4   # Оставить 4 последних релиза
-          remove_tags: true # Удаляет и теги тоже
+          keep-count: 4
+          remove-tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
