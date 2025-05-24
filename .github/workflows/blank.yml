@@ -20,4 +20,5 @@ jobs:
         with:
           keep-count: 4
           remove-tags: true
+          keep-old-minor-releases: false
           token: ${{ secrets.GITHUB_TOKEN }}
