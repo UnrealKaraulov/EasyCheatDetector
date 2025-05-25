@@ -20,7 +20,7 @@
 - CS:GO  
 - CS2  
 - HL1/HL2 modifications
-- Minecraft (in beta test, please contact @karaul0v (tg/vk) for more info)
+- Minecraft 
 
 ## 📋 Sends next technical data:
   1. Running processes
