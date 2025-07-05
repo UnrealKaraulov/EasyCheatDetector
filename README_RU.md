@@ -2,7 +2,7 @@
   
 # 🔍 Easy Cheat Detector
 
-![Превью](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/veed_converted.gif)
+![Превью](https://github.com/UnrealKaraulov/EasyCheatDetector/blob/main/ru_anim.gif)
 
 [**English**](README.md#english) | [**Русский**](#russian)
 
