@@ -56,8 +56,10 @@
 - Форум: [https://forum.fungun.net](https://forum.fungun.net)  
 
 <div align="center">
+
+
   
-[🌐 Официальный сайт](https://fungun.net/ecd/)  
+## [🌐 Официальный сайт](https://fungun.net/ecd/)  
 </div>
 
 <!-- 
