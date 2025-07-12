@@ -15,12 +15,12 @@
 - 🌐 Standard HTTPS protocol for all connections
 
 ## 🎯 Supported Games
-- Counter-Strike 1.6
-- Counter-Strike: Source  
-- CS:GO  
-- CS2  
+- Counter-Strike: 1.6
+- Counter-Strike: Source (and CS:GO)
+- Counter-Strike: 2
 - HL1/HL2 modifications
-- Minecraft 
+- Minecraft
+- RUST (WIP)
 
 ## 📊 Detection Rates
 | Game | Detection |
