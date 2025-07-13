@@ -10,17 +10,26 @@
 
 <a id="english"></a>
 ## 🛡️ Security
-- 🔒 All transmitted data is encrypted
+- 🔒 All transmitted data is encrypted (AES-256 + RSA-2048 + XOR)
 - 🚫 Does NOT collect **personal data**
 - 🌐 Standard HTTPS protocol for all connections
 
 ## 🎯 Supported Games
-- Counter-Strike 1.6
-- Counter-Strike: Source  
-- CS:GO  
-- CS2  
+- Counter-Strike: 1.6
+- Counter-Strike: Source (and CS:GO)
+- Counter-Strike: 2
 - HL1/HL2 modifications
-- Minecraft 
+- Minecraft
+- RUST (WIP)
+
+## 📊 Detection Rates
+| Game | Detection |
+|------|-----------|
+| CS 1.6 | 99% 🟢 |
+| Minecraft | 60% 🟠 |
+| CS2 | 30% 🟠 |
+| CS:Source | 20% 🟠 |
+| RUST | 0% 🔴 |
 
 ## 📋 Sends next technical data:
   1. Running processes
@@ -36,7 +45,25 @@
 | [📦 EasyCheatDetector](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Main anti-cheat executable |
 | [🔧 Report Viewer](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe) | Administrator tool |
 
+## 👤 Authors
+- **Karaulov** - program and cheat database developer
+- **SKAJIbnEJIb** - website, web code and plugins developer
+
+## 💬 Found an undetected cheat?
+Contact us via:
+- Telegram: [@karaul0v](https://t.me/karaul0v)  
+- Email: [karaulov@fungun.net](mailto:karaulov@fungun.net)  
+- Forum: [https://forum.fungun.net](https://forum.fungun.net)  
+
 <div align="center">
+
+
   
-[🌐 Official Website](https://fungun.net/ecd/)  
+## [🌐 Official Website](https://fungun.net/ecd/)  
 </div>
+
+<!-- 
+  Note:
+  - Legacy "UnrealCheatFinder" is not supported
+  - ECD is unrelated to UnrealDemoScanner
+-->
