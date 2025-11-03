@@ -10,7 +10,7 @@
 
 <a id="english"></a>
 ## 🛡️ Security
-- 🔒 All transmitted data is encrypted (AES-256 + RSA-2048 + XOR)
+- 🔒 All transmitted data is encrypted (AES-256 + RSA-2048)
 - 🚫 Does NOT collect **personal data**
 - 🌐 Standard HTTPS protocol for all connections
 
