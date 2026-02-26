@@ -43,7 +43,7 @@
 | File | Description |
 |------|-------------|
 | [📦 EasyCheatDetector](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatDetector.exe) | Main anti-cheat executable |
-| [🔧 Report Viewer](https://github.com/UnrealKaraulov/EasyCheatDetector/raw/refs/heads/main/EasyCheatViewer_x64.exe) | Administrator tool |
+| [🔧 Report Viewer](https://fungun.net/ecd/viewer/) | Offline report.ecd view tool |
 
 ## 👤 Authors
 - **Karaulov** - program and cheat database developer
