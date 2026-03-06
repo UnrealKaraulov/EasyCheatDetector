@@ -25,10 +25,10 @@
 ## 📊 Detection Rates
 | Game | Detection |
 |------|-----------|
-| CS 1.6 | 99% 🟢 |
+| CS 1.6 | 95% 🟢 |
 | Minecraft | 60% 🟠 |
-| CS2 | 30% 🟠 |
-| CS:Source | 20% 🟠 |
+| CS2 | 50% 🟠 |
+| CS:Source | 30% 🟠 |
 | RUST | 0% 🔴 |
 
 ## 📋 Sends next technical data:
